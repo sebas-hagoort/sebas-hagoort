@@ -1,4 +1,4 @@
-# Hi, I'm Sebastiaan 👋
+# Hi, I'm Sebastiaan
 
 Frontend developer (FDND) from the Netherlands. I build with **SvelteKit, Vue, Astro and React**, and I care about accessibility and web standards.
 
